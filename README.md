@@ -12,17 +12,17 @@ This challenge is part of the induction process for Upsilon Pi Epsilon (UPE), a 
 ```
 Time to Complete Each Level
 ---------------------------
-Level 1: 0.386432886124 s
-Level 2: 5.49717211723 s
-Level 3: 7.38935685158 s
-Level 4: 7.29726314545 s
-Level 5: 31.8144609928 s
-Level 6: 9.93617200851 s
-Level 7: 40.8906311989 s
-Level 8: 48.1082599163 s
-Level 9: 31.4660339355 s
-Level 10: 31.6865200996 s
-Level 11: 36.9894800186 s
-Level 12: 25.9408779144 s
+Level 1: 0.330574035645 s
+Level 2: 4.32655882835 s
+Level 3: 5.99303102493 s
+Level 4: 6.55129408836 s
+Level 5: 25.3762290478 s
+Level 6: 25.2167258263 s
+Level 7: 29.8029539585 s
+Level 8: 21.1468188763 s
+Level 9: 38.9708640575 s
+Level 10: 8.21616816521 s
+Level 11: 25.8859109879 s
+Level 12: 33.3222990036 s
 SUCCESS :)
 ```
